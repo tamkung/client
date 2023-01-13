@@ -6,8 +6,8 @@ import { useSelector } from "react-redux";
 import { officerCountReply } from "../../functions/officer";
 
 // import chart
-import ChartDoughnutComponent from "./chart/ChartDoughnutComponent";
-import ChartBarComponent from "./chart/ChartBarComponent";
+import ChartDoughnutComponent from "./Chart/ChartDoughnutComponent";
+import ChartBarComponent from "./Chart/ChartBarComponent";
 
 import { Link } from "react-router-dom";
 

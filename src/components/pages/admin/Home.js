@@ -7,8 +7,8 @@ import { officerCountReply } from "../../functions/officer";
 import { countMember } from "../../functions/query";
 
 // import chart
-import ChartDoughnutComponent from "../officer/chart/ChartDoughnutComponent";
-import ChartBarComponent from "../officer/chart/ChartBarComponent";
+import ChartDoughnutComponent from "../officer/Chart/ChartDoughnutComponent";
+import ChartBarComponent from "../officer/Chart/ChartBarComponent";
 import ChartBarMember from "./chart/ChartBarMember";
 import TableComponent from "../tables/TableComponent";
 // import ChartBarMember from "./chart/ChartBarMember";

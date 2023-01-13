@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import { BootstrapTable, TableHeaderColumn } from "react-bootstrap-table";
-import ChartDoughnutCompent from "./officer/chart/ChartDoughnutComponent";
+import ChartDoughnutCompent from "./officer/Chart/ChartDoughnutComponent";
 import TableComponent from "./tables/TableComponent";
 
 const Home = () => {
